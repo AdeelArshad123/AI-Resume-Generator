@@ -1,0 +1,8 @@
+{
+  "name": "ResumeCraft AI",
+  "description": "An AI-powered SaaS platform that helps users create professional, ATS-optimized resumes from a simple text prompt, featuring real-time analysis and AI-driven suggestions for improvement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
