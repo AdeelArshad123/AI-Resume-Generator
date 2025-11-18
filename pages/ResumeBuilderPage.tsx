@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { useResume } from '../../hooks/useResume';
+import { useResume } from '../hooks/useResume';
 import { useNavigate } from 'react-router-dom';
 import BuilderSidebar from '../components/resume/BuilderSidebar';
 import ResumePreview from '../components/resume/ResumePreview';
